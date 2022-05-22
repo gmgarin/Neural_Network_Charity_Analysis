@@ -19,7 +19,7 @@
   ### Compiling, Training, and Evaluating the Model
   -  I created three models. The first model has 2 hidden layers, one has 80 and the other has 30 neurons. The activation function used was *relu* and *sigmoid* for output layer. The second model was similar to the first model, however, the activation function wasc changed to *tahn*. Lastly, the third model is also similar to the first model, however, there is an added hidden layer with 20 neurons.
 
-  - Despite optimizations made in each model, the 75% target model performance was not achieved. 
+  - Despite optimizations made in each model, the 75% target model performance was not achieved. The average model performance of the three models was 65.3%, with highest of 73.2% and lowest of 49.8%.
 
   - Some optimization measures take were adding another hidden layer, changing activation function, adding and/or reducing the number of epochs, and reducing the number of features.
 
